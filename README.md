@@ -12,11 +12,13 @@ git clone https://github.com/KetulChhaya/vg.git
 # Navigate into the project directory
 cd vg
 
+
 2. Open the Project in VS Code
 
 Open Visual Studio Code (VS Code).
 
 Use the File > Open Folder... option to open the project folder you just downloaded.
+
 
 3. Install Dependencies
 
@@ -25,6 +27,7 @@ In the VS Code terminal, run the following command to install all the necessary 
 npm install
 
 This will download and install all the packages specified in the package.json file.
+
 
 4. Start the Development Server
 
@@ -35,6 +38,7 @@ npm start
 This will start the application and open it in your default web browser. If it doesn’t open automatically, navigate to:
 
 http://localhost:3000
+
 
 5. Explore the Application
 
